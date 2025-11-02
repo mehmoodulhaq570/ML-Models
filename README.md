@@ -1,5 +1,3 @@
-
-
 # Machine-Learning-Models
 
 Must use Jupiyter Notebook to run these projects
